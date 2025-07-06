@@ -1,3 +1,1 @@
-## Branching, Merging,and conflict Resolution Task
-This task practices branching, merging ,and resolving conflicts.
-Modification in main branch.
+this is the description of my repo
